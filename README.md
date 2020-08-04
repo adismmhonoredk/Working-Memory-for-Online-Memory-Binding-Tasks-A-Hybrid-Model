@@ -1,5 +1,5 @@
 # Working Memory for Online Simple Bindings: A Hybrid Model
-__________________________________________________________________________________________________________
+
 Created by Mahdi Heidarpoor on 8/5/20.
 
 Copyright © 2020 Mahdi Heidarpoor. All rights reserved.
