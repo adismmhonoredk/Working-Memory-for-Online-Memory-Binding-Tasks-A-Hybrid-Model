@@ -43,7 +43,7 @@ tensorflow>=2
 ##### 3-2 Generalized First-Order Binding Task
 ##### 3-3 Second-order Memory Binding Task
 ##### 3-4 A Cue-Based Memory Binding Task
-You must Extract "trained_dcwm_pickle.7z" in the folder to load the trained model without error.
+```You must Extract "trained_dcwm_pickle.7z" in the folder to load the trained model without error.```
 
 ### 4 Concolusion
 
