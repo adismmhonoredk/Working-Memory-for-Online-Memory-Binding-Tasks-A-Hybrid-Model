@@ -27,7 +27,7 @@ tensorflow>=2
 * At the end of the Jupyter filse, we create  test_data just to show you our model performance and IV changes.
 
 * All requested codes of paper in order to appear in the paper.
-__________________________________________________________________________________________________________
+
 ### 2 Method
 
 ##### 2-1 Model's python code (Each Task have a separate model in its folder exactly the same as this model)
