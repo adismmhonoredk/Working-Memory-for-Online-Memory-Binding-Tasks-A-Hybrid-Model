@@ -30,24 +30,24 @@ tensorflow>=2
 __________________________________________________________________________________________________________
 ### 2 Method
 
------- 2-1 Model's python code (Each Task have a separate model in its folder exactly the same as this model)
------- 2-1-2 Testing Balanced Random network in Jupyter
------- 2-2 Trainer's python code (Each Task have a separate trainer in its folder the same as this model)
------- 2-3 Testing other Networks in tasks (We recommend to see results code at first)
----------- 2-3-1 Direct connection to layer three
----------- 2-3-2 Ballanced but nonrandom
+##### 2-1 Model's python code (Each Task have a separate model in its folder exactly the same as this model)
+##### 2-1-2 Testing Balanced Random network in Jupyter
+##### 2-2 Trainer's python code (Each Task have a separate trainer in its folder the same as this model)
+##### 2-3 Testing other Networks in tasks (We recommend to see results code at first)
+##### 2-3-1 Direct connection to layer three
+##### 2-3-2 Ballanced but nonrandom
 
 ### 3 Results
 
------ 3-1 First-Order Memory Binding Task
------ 3-2 Generalized First-Order Binding Task
------ 3-3 Second-order Memory Binding Task
------ 3-4 A Cue-Based Memory Binding Task
+##### 3-1 First-Order Memory Binding Task
+##### 3-2 Generalized First-Order Binding Task
+##### 3-3 Second-order Memory Binding Task
+##### 3-4 A Cue-Based Memory Binding Task
 
 ### 4 Concolusion
 
----- Third-order  memory binding task: Validation tests
----- Forth-order memory binding task: Validation tests
+##### Third-order  memory binding task: Validation tests
+##### Forth-order memory binding task: Validation tests
 __________________________________________________________________________________________________________
 
 ## HQ Figs
