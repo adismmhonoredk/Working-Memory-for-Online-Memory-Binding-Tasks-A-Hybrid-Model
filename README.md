@@ -1,4 +1,4 @@
-# Working Memory for Online Simple Bindings: A Hybrid Model
+# Working Memory for Online Memory Binding Tasks: A Hybrid Model
 
 Created by Mahdi Heidarpoor on 8/5/20.
 
